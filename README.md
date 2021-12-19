@@ -1,2 +1,0 @@
-# website-pub
-public website
